@@ -1,4 +1,4 @@
-#Projeto (Nome) - Banco de Dados##
+#Projeto (Nome) - Banco de Dados#
 
 
     ###Este projeto foi realizado durante a formação da Turma 3 da [Resilia](https://www.resilia.work/) e encerra o Módulo 2 do curso, referente a bancos de dados.###
